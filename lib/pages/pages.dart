@@ -1,0 +1,17 @@
+export 'splash/splash_page.dart';
+export 'login/login_page.dart';
+export 'dashboard/dashboard_page.dart';
+export 'setting/setting_page.dart';
+export 'wallet/wallet_page.dart';
+export 'card/card_page.dart';
+export 'transfer/transfer_page.dart';
+export 'auth_option/auth_option_page.dart';
+export 'register/register_page.dart';
+export 'verification/verification_page.dart';
+export 'forget/forget_page.dart';
+export 'biometric_login/biometric_login_page.dart';
+export 'notification/notification_page.dart';
+export 'support/support_page.dart';
+export 'compaign/compaign_page.dart';
+export 'account_created/account_created_page.dart';
+export 'transaction/transaction_page.dart';
